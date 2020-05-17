@@ -1,0 +1,53 @@
+body {
+    background-image:url("../images/rainbow.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#container {
+    color: #fff;
+    text-align:center;
+    text-transform: uppercase;
+    font-family: sans-serif, Helvetica, Arial;
+}
+.websiteInfo {
+    float: right;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+    height: 30px;
+    display:inline-block;
+    line-height:30px;
+}
+.websiteInfo a {
+    margin:25px;  
+    width: 80px;
+}
+.websiteInfo a:hover {
+    background-color:#000;
+    border:solid #fff 2px;
+    border-radius:20px; 
+}
+br {
+    line-height: 330px;
+}
+.content {
+    font-size: 80px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.content div {
+    font-size:60px;
+    font-weight:100;
+}
+#creative {
+    color:#03FDAA;
+}
+.ideas{
+    width: 150px;
+    background-color:#03FDAA;
+    border-width:0px;
+    border-radius:20px;
+}
